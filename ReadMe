@@ -1,0 +1,15 @@
+Website (https://www.nike.com/in)
+MODULES:
+Project Modules in Nike(framework, resources
+used)
+ Account Module(Done by the whole team.):-
+Where we check the login process with 3 test cases
+Framework used: BDD Cucumber, Apache POI,
+Maven.
+Resources:feature1.feature (Cucumber),testdata.xlsx
+ Search Module(Done by Kiran K):-
+
+ Men’s Category :-Done by Diya Alphonse Mathew
+ Women’s Category:-Done by Edwin Francis
+ Kids Category:-Done by Vishnu Vijay Pillai
+ Customise Category:-Done by Ashir Johnson
